@@ -1,0 +1,25 @@
+input {
+    outline:none;
+}
+.cur_v_input{
+    border: 20px;
+    font-size: 20px;    
+    width: 150px;
+    height: 35px;
+    box-sizing: border-box;
+    padding: 6px 15px;
+    border: 1px solid #000000;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: normal;
+}
+.cur_v_input:focus{
+    border: 1px solid #000000;
+    border-radius: 0px;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: normal;
+}
+.equal{
+    margin: 10px;
+}
